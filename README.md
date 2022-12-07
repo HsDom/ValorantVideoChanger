@@ -30,4 +30,4 @@ It is advised to restart your computer, but you can do it manually.
 To replace the bland Valorant wallpaper with a custom video wallpaper, open [FilesAndFormats.txt](https://github.com/HsDom/ValorantVideoChanger/blob/master/FilesAndFormats.txt), identify the video you wish to replace, and then just rename it with the same name. Also, make sure the video is in the same directory as the Changer.exe or main.py main file.
 
 # Features
-- Replaces the boring Valorant wallpaper with a personalised video wallpaper
+- Changes the dull Valorant background to a custom video wallpaper
