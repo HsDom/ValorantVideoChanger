@@ -1,6 +1,5 @@
 <h1 align="center">Valorant Video Changer</h1>
-## No Longer Maintained
-
+<h2 align="center">No Longer Maintained</h2>
 
 ## Installation (Source)
 
